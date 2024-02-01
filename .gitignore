@@ -2,3 +2,10 @@ node_modules
 midi
 mp3
 original
+setlist.csv
+key.*
+
+midi/*
+mp3/*
+original/*
+set/*
